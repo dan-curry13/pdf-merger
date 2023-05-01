@@ -11,6 +11,11 @@ dist/
 # InstallForge Configuration
 *.ifp
 
+# Pictures and icons
+*.png
+*.jpg
+*.ico
+
 # PowerShell scripts
 *.ps1
 
